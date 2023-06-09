@@ -1,0 +1,12 @@
+.heroHeader {
+    font-size: 80px;
+    width: 60%;
+    margin: 150px auto 10px 200px;
+}
+
+.heroParagraph {
+    font-size: 30px;
+    width: 60%;
+    margin: 10px auto 0px 200px;
+    color: rgb(196, 196, 232);
+}

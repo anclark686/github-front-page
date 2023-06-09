@@ -1,0 +1,13 @@
+.StatsBar {
+    display: flex;
+    justify-content: space-around;
+    font-family: monospace;
+}
+
+.StatsBar h3 {
+    font-size: 25px;
+}
+
+.StatsBar p {
+    font-size: larger;
+}
